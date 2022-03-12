@@ -13,5 +13,5 @@ A Decision Tree is a supervised algorithm used in machine learning. It is using 
 # 2: Train Decision Tree on Classification Task
 I will train a DecisionTreeClassifier on iris dataset. I will use default hyper-parameters for the classifier.
 
-#3 : Plot Tree with plot_tree
+# 3: Plot Tree with plot_tree
 The plot_tree method was added to sklearn in version 0.21. It requires matplotlib to be installed. It allows us to easily produce figure of the tree (without intermediate exporting to graphviz) 
