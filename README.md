@@ -2,7 +2,7 @@
 predication using DecissionTree algorithm for iris dataset and visualization the decission tree
 A Decision Tree is a supervised algorithm used in machine learning. It is using a binary tree graph (each node has two children) to assign for each data sample a target value. The target values are presented in the tree leaves. To reach to the leaf, the sample is propagated through nodes, starting at the root node. In each node a decision is made, to which descendant node it should go. A decision is made based on the selected sample’s feature. Decision Tree learning is a process of finding the optimal rules in each internal tree node according to the selected metric.
 
-#1:  The decision trees can be divided, with respect to the target values, into:
+# 1: The decision trees can be divided, with respect to the target values, into:
 **Classification trees used to classify samples, assign to a limited set of values - classes. In scikit-learn it is DecisionTreeClassifier.**
 **Regression trees used to assign samples into numerical values within the range. In scikit-learn it is DecisionTreeRegressor.**
 
